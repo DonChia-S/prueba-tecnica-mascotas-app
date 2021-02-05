@@ -585,4 +585,12 @@ header .navbar-brand {
   .navbar-item {
     font-size: 20pt !important;
   }
+
+  .btn-cierre-historial {
+    float: left;
+    background: none;
+    border-style: none;
+    width: 3%;
+    margin: 0.5% 0 0;
+  }
 }
